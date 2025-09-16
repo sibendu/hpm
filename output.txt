@@ -1,0 +1,231 @@
+105° TYP.
+R0.5
+P
+0.2
+R 13.65
+SectionA
+SectionB
+R 13.65
+(23.58
+1º
+3,99
+7 (2x)
+2.31(3x)
+11.67 (2x),
+0.5
+0.3 B
+7.59
+R0.5(2x)
+9.39 (2x) 3.68 (2x)
+7.4
+2.65 (2x) 1.95 (2x)
+9.7
+10.3|B
+A
+40
+0.3
+41.74 -0.7 (2x)
+43.09 +02 (2x)
+C :unselected:
+C
+21(2x)
+23.2 +0,13 (2x)
+(12)
+1.5
+0.4 MAX.
+R4.5
+3.5
+2.5
+Right1 Cutaway3
+0.1(2x) 1.05(2x)
+0.66 (2x)
+10.65 (2x)
+32.65 (4x)
+SectionA
+SectionB
+9.68 (2x)
+11(2x)
+11.92 (2x)
+13.2 (2x)
+Front1
+1646 92.1 +0.2
+89.6 +0.2
+see DETAIL2
+Cutaway5
+(4.25)
+( 11.89)
+CUTAWAY 2
+Hr
+6.1(2x)
+1.14 (2x)
+0.95 (2x) 0.1(2x)
+12.4 (2x)
+15 (2x) 15.2(2x)
+9.9 (2x) 11.14 (2x)
+CUTAWAY 1
+18.22 (2x) 4.97 (2x)
+40.34
+39.74
+Top1
+88.6 +0.2
+R 11.15
+2.3
+26.11(4x)
+15.69 (4x)
+Cutaway4
+1.15
+¢5.26
+R1
+0.5 (2x)
+Section A-A
+3 TYP.
+93.6 .0.25
+see DETAIL 1
+8.25
+17.9
+2.5
+2.5
+8.62
+2.24
+40.92 +0.2
+15
+2.18
+7.16
+7.16
+2250
+7.16
+1.29
+2.87
+1.38
+see DETAIL4
+DETAIL4 Scale 5:1
+DETAIL9 Scale 5:1
+0.3
+N
+0.3 B
+Cutaway1
+Back1
+0.3 B
+Back2 Cutaway2
+225°
+7.16 see DETAIL3
+2.5
+1.29
+see DETAIL9
+40.43(2x)
+8.13
+5.4
+Gen1 Scale 1:2
+10.87 21.85
+Back5
+Gen2 Scale 1:2
+42.71 TYP.
+43.82 +0.1 (2x)
+45.22
+1.1
+6.7
+7.07
+1º
+1.1 +0.08
+11.1(2x)
+1.1 =0.08
+R0.3(2x) 0.66 (4x)
+Section B-B
+0.55 (2x)
+0.09 (2x) Scale 4:1
+DETAIL1
+8.2
+43
+3 (2x) 3 (2x)
+Ø 1.5(2x)
+R2(2x)
+R 1.9(2x)
+DETAIL2 Scale 3:1
+32.13
+2.5(2x)
+17.07
+17.9
+8.63
+1.74
+1.5
+2.18
+5.61
+8.33 2
+10.87 21.85
+5.4
+13.49
+6.47
+4.69
+0.3
+6.9
+21.09
+22.6
+6.54
+DETAIL3
+Scale 2:1
+All dimensions to be measured initially for first article inspection
+> 10 > 18 .30 > 50
+> 120 > 180
+-250 > 315
+> 400
+TEL NY 0.05 60.09 20.11
+W 1-0.03 -0.05 -0.09 -0.11
++0.23
++0.35
++0.41
++0.45
+60.32
+60.35
++0.41
+60.45
++0.63
+1646
+added control dimension, added Section F-F. changed wording DL12.16 |Bonka Wohlfahrt
+1644
+Shape and torerance adjustments, see Rev. marker 1666 10.11.16 Banko Wohlfahr
+1622
+Enlarged hodks (hd, added rib
+14.06.16 |Bonko Wohlfahrt
+1616 Added Iwo ribs Isee Bock 5, moved faces Isee Section B-BI 19.05.16 |Bionko Wohlfahrt
+1540
+removed location tolerance, removed TYP. added Detail 4 and 9, see Rev, marker
+22.01,1
+Banko Wohlfahrt
+Anderungabeschreibung REVISION DESCRIPTION"
+APPROVED
+Honeinhell Millimeter, falls nicht SCALE 2:1
+anders angegeben. /
+UNLESS OTHERWISE SPECIFIED
+DPENSIONS ARE IN MILLIMETRES
+ALLGEMEINTOLERANZ NACH
+DIN %742 - TG4
+PAPER SZE A1
+Projektionsmethode !
+THIRD ANGLE PROJECTION
+GENERAL TOLER
+DN 9%742 - 164
+Nicht in der ausgedruckten Zeichnung nessen.
+Datum/DATE
+None/NAME
+Benennung / TITLE
+DO NOT SCALE THIS DRAWING.
+Bearb./DRAWN 09,07.15 Blanko Wohlfahr
+IV2-TRANS PLAST CB Case S/M
+- STRENG VERTRAULICH-
+Depr/CHECKED
+WEITEREALE AN OHITTE UND VERVIELFALTGUMEEN
+NUR MIT GENEHMIGUNG DES URHEBERS
+Bemerkungen / NOTES
+1 - Die Telegeometrie ist in zugehörigen 30 Dalen-File definiert, / GEOMETRY DATA IS DEFINED IN ASSOCIATED 30 BODY DATA FILE. 2 - Nicht benoite Features müssen von den zueinander rechtwinkligen Referenzebenen -X-Y- - 2- 0 -- Z- gemessen werden. /
+UNDIMENSIONED FEATURES ARE TO BE MEASURED FROM THE ORTHOGONAL DATUM PLANES -X ------ 3 - Oberfläche und Material des Teles siehe Spezifikationsdokument. / SURFACE AND MATERIAL SEE SPECIFICATION DOCUMENT,
+- Pruefmass / CONTROL DIMENSION)
+5 - Port Radi R0.2 TYP. Min. ROJ
+Max. RO.S 5 - Winkeltoleranz bis zu +/- T / ANGULAR TOLERANCES up to ./- 1º Dimensions below imre Tolerance w/- G.Joan
+PHILIPS MEDICAL SYSTEMS PROPRETAPE
+This document contains confidential proprietary PHILIPS Information that is PHILIPS PROPRIETARY. DO
+nat dadose te or dpicole lar offers excepl os authorized by Philips Medical Systems.
+Zeichnungsnumer / DRAWING NUMBER
+453564585291-M-ADWG
+12
+Telerr./PART NO:
+453564585291

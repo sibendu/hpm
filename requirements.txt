@@ -1,4 +1,5 @@
 python-dotenv
 ipython
 jupyter
+azure-ai-formrecognizer
 azure-ai-documentintelligence
