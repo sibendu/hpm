@@ -1,3 +1,4 @@
+python-dotenv
 ipython
 jupyter
 azure-ai-documentintelligence
